@@ -1,0 +1,9 @@
+var bus = "Bus is not 23";
+if (bus == "Bus is not 23") {alert("Bus is not 23");}
+else (bus == "Wait for the bus 23") {alert("Bus is not 23");}
+var BusStop = "Yaletown Roundhouse";
+if (BusStop == "Yaletown Roundhouse") {alert("Yaletown Roundhouse");}
+else (BusStop == "Not Yaletown Roundhouse") {alert("Not Yaletown Roundhouse");}
+var skytrain = "waterfront arrived";
+if (skytrain == "waterfront arrived") {alert("waterfront arrived !");}
+else (skytrain == "Notwaterfront") {alert("Notwaterfront Reach !");}
